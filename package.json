@@ -1,7 +1,7 @@
 {
-  "name": "ayushman-anupam",
+  "name": "ayushman-anupam-portfolio",
   "version": "1.0.0",
-  "description": "Educator JS Codespace Template",
+  "description": "Ayushman Anupam",
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
