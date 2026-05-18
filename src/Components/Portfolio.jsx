@@ -8,7 +8,7 @@ const projectList = [
   {
     title: "LectureAI - Personal Lecture Assistant",
     description:
-      "Built an advanced Agentic AI system using LangGraph and RAG pipelines to transform lecture videos into interactive learning experiences with chatbot, notes, and mind maps.",
+      "Advanced Agentic AI Framework that transform lecture videos into interactive learning experiences with video based chatbot, notes, testing and evaluation.",
     url: "https://github.com/AyushmanGHub/LectureAI_-_Personal_Lecture_Assistant",
   },
   {
